@@ -29,4 +29,3 @@
 | 23   | oppo              | 10月        | https://careers.oppo.com/campus/post/home                    |                  |
 | 24   | 猿辅导            | 7月31日笔试 | http://hr.yuanfudao.com/campus_apply/fenbi/28/#/             |                  |
 | 25   | 拼多多            | 7月31日     | https://careers.pinduoduo.com/campus/grad?name=&type=fullTime&recruitType=&job=technology |                  |
-| 26   | 中石油            | 10月9日     | https://zhaopin.cnpc.com.cn/                                 |                  |
