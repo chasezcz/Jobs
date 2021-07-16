@@ -6,7 +6,7 @@
 | ---- | ----------------- | ----------- | ------------------------------------------------------------ | ---------------- |
 | 1    | 商汤              | 7 月 15 日  | <https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html> |                  |
 | 2    | 360               |             | <https://www.nowcoder.com/careers/360/65521>                 |                  |
-| 3    | 联想              | 8 月 31 日  | <https://talent.lenovo.com.cn/>                              |                  |
+| 3    | 联想              | 8 月 20日   | <https://talent.lenovo.com.cn/>                              |                  |
 | 4    | 麒麟软件          | 8 月        | <https://kylinos.zhiye.com/Campus>                           |                  |
 | 5    | 大华股份          | 7 月 31 日  | <https://dahua.zhiye.com/>                                   |                  |
 | 6    | 龙图游戏          |             | <http://job.longtugame.com/t2/297/5230.html>                 |                  |
@@ -29,3 +29,9 @@
 | 23   | oppo              | 10月        | https://careers.oppo.com/campus/post/home                    |                  |
 | 24   | 猿辅导            | 7月31日笔试 | http://hr.yuanfudao.com/campus_apply/fenbi/28/#/             |                  |
 | 25   | 拼多多            | 7月31日     | https://careers.pinduoduo.com/campus/grad?name=&type=fullTime&recruitType=&job=technology |                  |
+| 26   | 爱奇艺            | 8月4日      | https://campus.iqiyi.com/index.html                          |                  |
+| 27   | 科大讯飞          | 7月24日     | https://sso.iflytek.com:8443/sso/login?service=https://in.iflytek.com
+| 28   | 祖龙娱乐          |             | https://campus.zulong.com/campus_apply/zulong/25158/#/
+| 29   | 荣耀             |             | https://www.hihonor.com/cn/career/
+| 30   | 艾为电子          | 8月15日     | https://awinic.m.zhiye.com/#/jobs?jc=2
+| 31   | 明略科技          | 8月15日     | https://mininglamp.tupu360.com/pageQrCode?targetUrl=https%3A%2F%2Fmininglamp.tupu360.com%2Fposition%2Flist%3Fenter%3Dmenu%26lang%3Dzh_CN%26type%3DCAMPUSRECRUITMENT
